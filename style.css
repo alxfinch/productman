@@ -28,6 +28,7 @@ h1{
 }
 nav{
 	float: right;
+	margin-top: 23px;
 }
 header li{
 	display: inline-block;
